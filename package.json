@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://TurkevychCode.github.io/react-hangman",
+  "homepage": "https://TurkevychCode.github.io/hangman",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
